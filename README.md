@@ -1,6 +1,8 @@
 # Google Search AI Mode Remover
 
-A lightweight Chrome Extension for school environments to automatically redirect users away from Google's "AI Mode" search and remove the relevant "AI Mode" button from the search toolbar.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fis-gemibye&label=Repository%20views&color=8a1538&style=for-the-badge" alt="fis-gemibye" /> </p>
+
+A lightweight Chrome Extension for school environments to remove Google Search's "AI Mode" from the toolbar and prevent users from navigating to "AI Mode" searches.
 
 ![Extension Example](/docs/example.jpeg)
 
@@ -53,7 +55,7 @@ Before packing your extension, you can customize it for your specific school or 
 5. **Submit for Review:** Once all required tabs are filled out, click **Save Draft** and when ready **Submit for review**.
    - Our review process took about 14 hours to be approved when set to be published privately for our organisation and only available in our organisations country.
 
-### Deployment
+## Deployment
 
 Once your extension is approved and published, you can force install the extension using Google Workspace Admin to a specific OU with the following steps:
 
